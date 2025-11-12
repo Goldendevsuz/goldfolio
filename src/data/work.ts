@@ -45,20 +45,6 @@ export const work = [
     ],
   },
   {
-    title: "API Monitoring Dashboard",
-    company: "GoldenDevs",
-    region: "Uzbekistan",
-    description:
-      "Built a Postman-style API monitoring tool with scheduled checks via crontab, integrated Google Sheets reporting, and Telegram notifications.",
-    technologies: [
-      "Python",
-      "FastAPI",
-      "crontab",
-      "Google Sheets API",
-      "Telegram API",
-    ],
-  },
-  {
     title: "Custom API Platforms (AudioBook & EduPess)",
     company: "GoldenDevs",
     region: "Uzbekistan",

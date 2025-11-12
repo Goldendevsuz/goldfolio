@@ -12,15 +12,6 @@ export const projects = [
     icon: PythonIcon,
   },
   {
-    title: "API Monitoring Dashboard",
-    techStack: "Python • FastAPI • crontab • Google Sheets • Telegram",
-    description:
-      "Created a Postman-style API monitoring system with scheduled checks, structured logging, and real-time alerts sent via Telegram.",
-    ctaText: "View Repo →",
-    ctaLink: "https://github.com/goldendevuz", // 🔗 replace with monitoring repo
-    icon: PythonIcon,
-  },
-  {
     title: "Custom API Platforms (AudioBook & EduPess)",
     techStack: "Python • Django • DRF • PostgreSQL • Docker",
     description:
